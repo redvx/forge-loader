@@ -1,4 +1,8 @@
-- Made this to learn java
+Made this to learn java
+
+**Building**
+- gradlew.bat setupDecompWorkspace
+- gradlew.bat build
   
 **Features**
 - HWID Protection
