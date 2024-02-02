@@ -24,7 +24,7 @@ public class Client {
                 shutdownMethod.invoke(null, 0);
             }
         } catch (Exception e) {
-            throw new NoStackTraceCrash("Stop trying to crash the client");
+            throw new NoStackTraceCrash("Stop trying to crack the client");
         }
     }
 
