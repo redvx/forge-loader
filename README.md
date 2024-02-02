@@ -7,6 +7,5 @@
 - Checks if the authentication is valid or not from the loaded client
 ![image](https://github.com/redvx/secure-loader/assets/72520365/aec0a3f6-4f76-4661-9cb8-837da6613018)
 
-
 **Credits**
 - https://github.com/x4e/falcon-forge
