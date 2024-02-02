@@ -1,0 +1,18 @@
+[
+	{
+		"modid": "muffin-loader",
+		"name": "Muffin Loader",
+		"description": "",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"url": "",
+		"updateUrl": "",
+		"authorList": [
+			"Redvx"
+		],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": []
+	}
+]
