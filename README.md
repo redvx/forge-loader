@@ -1,6 +1,4 @@
-Made this to learn java
-
-If anything needs fixing, make a pull request
+Made this to learn java. If anything needs fixing, make a pull request
 
 **Building**
 - gradlew.bat setupDecompWorkspace
